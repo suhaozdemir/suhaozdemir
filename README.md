@@ -1,4 +1,5 @@
-### Hi there, I am Süha, Welcome to my Github Page! 👋
+### Hi there, I am Süha,
+## Welcome to my Github Page! 👋
 
 - 🔭 I’m currently working on my graduation project with Flutter.
 - 🌱 I’m currently learning Flutter.
