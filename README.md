@@ -1,10 +1,8 @@
 ### Hi there, I am Süha,
 ## Welcome to my Github Page! 👋
 
-- 🔭 I’m currently working on my graduation project with Flutter.
-- 🌱 I’m currently learning Flutter.
-- 🥅 2022 Goals: Learning more stuff about Mobile App Development and improve myself.
-
+- 🔭 I’m a Jr. Mobile Application Developer
+- 🌱 I’m currently working with Flutter and Kotlin
 
 ### Languages and Tools:
 
